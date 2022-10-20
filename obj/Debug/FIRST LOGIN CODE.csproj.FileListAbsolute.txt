@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\FIRST LOGIN CODE\obj\Debug\FIRST LOGIN CODE.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FIRST LOGIN CODE\obj\Debug\FIRST LOGIN CODE.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\FIRST LOGIN CODE\obj\Debug\FIRST_LOGIN_CODE.Form1.resources
+C:\Users\User\source\repos\FIRST LOGIN CODE\obj\Debug\FIRST_LOGIN_CODE.Form2.resources
+C:\Users\User\source\repos\FIRST LOGIN CODE\obj\Debug\FIRST_LOGIN_CODE.Properties.Resources.resources
+C:\Users\User\source\repos\FIRST LOGIN CODE\obj\Debug\FIRST LOGIN CODE.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FIRST LOGIN CODE\obj\Debug\FIRST LOGIN CODE.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FIRST LOGIN CODE\obj\Debug\studentregistration.Form3.resources
